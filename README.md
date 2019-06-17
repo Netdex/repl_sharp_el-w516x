@@ -1,6 +1,9 @@
 # repl_sharp_el-w516x
 `This project is a work-in-progress.`
 
+![](https://i.imgur.com/9gZCpjB.png)
+
+## Overview
 repl_sharp_el-w516x is a design for a replacement logic board for the SHARP EL-W516X calculator.
 
 ![](https://i.imgur.com/QA0KFef.png)
