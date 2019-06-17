@@ -2,4 +2,7 @@
   (lib (name keyboard_parts)(type Legacy)(uri /home/netdex/Documents/kicad/libraries/kicad_lib_tmk/keyboard_parts.lib)(options "")(descr ""))
   (lib (name mkl27z256vfm4)(type Legacy)(uri /home/netdex/Documents/kicad/libraries/kicad_lib_tmk/mkl27z256vfm4.lib)(options "")(descr ""))
   (lib (name 74HC165D)(type Legacy)(uri /home/netdex/Documents/kicad/libraries/74HC165D/74HC165D.lib)(options "")(descr ""))
+  (lib (name NHD-C12832A1Z-FSW-FBW-3V3)(type Legacy)(uri /home/netdex/Documents/kicad/libraries/NHD-C12832A1Z-FSW-FBW-3V3/NHD-C12832A1Z-FSW-FBW-3V3.lib)(options "")(descr ""))
+  (lib (name UL_BQ24072RGTR)(type Legacy)(uri /home/netdex/Documents/kicad/libraries/UL_BQ24072RGTR/UL_BQ24072RGTR.lib)(options "")(descr ""))
+  (lib (name 009155004541006)(type Legacy)(uri /home/netdex/Documents/kicad/libraries/009155004541006/009155004541006.lib)(options "")(descr ""))
 )
