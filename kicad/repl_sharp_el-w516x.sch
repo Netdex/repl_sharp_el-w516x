@@ -31,12 +31,6 @@ F 3 "" H 4150 5900 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	1250 5500 1300 5500
-Wire Wire Line
-	1250 5600 1300 5600
-Wire Wire Line
-	1250 5700 1300 5700
-Wire Wire Line
 	3550 5500 3650 5500
 Wire Wire Line
 	3650 5600 3550 5600
@@ -67,8 +61,6 @@ Wire Wire Line
 Connection ~ 3850 5300
 Wire Wire Line
 	3850 5300 3550 5300
-Wire Wire Line
-	1350 5800 1300 5800
 $Comp
 L power:GND #PWR05
 U 1 1 5D6EE175
@@ -80,8 +72,6 @@ F 3 "" H 1250 6000 50  0001 C CNN
 	1    1250 6000
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	1250 6000 1300 6000
 Wire Wire Line
 	3500 5150 3600 5150
 $Comp
@@ -114,8 +104,6 @@ Wire Wire Line
 	3600 6000 3550 6000
 Text Label 1250 5400 2    50   ~ 0
 shift_in_clk
-Wire Wire Line
-	1250 5400 1300 5400
 $Comp
 L Device:C_Small C6
 U 1 1 5EAC3099
@@ -708,8 +696,6 @@ Wire Wire Line
 	5350 5800 5400 5800
 Text Label 1250 5300 2    50   ~ 0
 shift_in_pl
-Wire Wire Line
-	1250 5300 1300 5300
 Text Label 5350 5500 2    50   ~ 0
 shift_out_n_srclr
 Wire Wire Line
@@ -752,7 +738,6 @@ NoConn ~ 4600 2750
 Wire Wire Line
 	3900 900  3900 950 
 NoConn ~ 4600 2650
-NoConn ~ 4600 2550
 Wire Wire Line
 	750  1550 3400 1550
 Wire Wire Line
@@ -780,17 +765,6 @@ Wire Wire Line
 	5050 3150 4600 3150
 Wire Wire Line
 	5050 2350 4600 2350
-$Comp
-L MCU_Microchip_ATmega:ATmega32U4-AU U2
-U 1 1 5CF843C0
-P 4000 2850
-F 0 "U2" H 3600 4600 50  0000 C CNN
-F 1 "ATmega32U4-AU" H 4450 4600 50  0000 C CNN
-F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 4000 2850 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 4000 2850 50  0001 C CNN
-	1    4000 2850
-	1    0    0    -1  
-$EndComp
 Text Label 5050 1250 0    50   ~ 0
 lcd_scl
 Text Label 5050 2350 0    50   ~ 0
@@ -1045,27 +1019,6 @@ Text Label 3150 2350 0    50   ~ 0
 uD+
 Text Label 3150 2450 0    50   ~ 0
 uD-
-Connection ~ 1300 5300
-Wire Wire Line
-	1300 5300 1350 5300
-Connection ~ 1300 5400
-Wire Wire Line
-	1300 5400 1350 5400
-Connection ~ 1300 5500
-Wire Wire Line
-	1300 5500 1350 5500
-Connection ~ 1300 5600
-Wire Wire Line
-	1300 5600 1350 5600
-Connection ~ 1300 5700
-Wire Wire Line
-	1300 5700 1350 5700
-Connection ~ 1300 5800
-Wire Wire Line
-	1300 5800 1250 5800
-Connection ~ 1300 6000
-Wire Wire Line
-	1300 6000 1350 6000
 $Comp
 L 74HC165D:74HC165D U1
 U 1 1 5DDA5A4F
@@ -1079,4 +1032,70 @@ F 3 "" H 1350 5300 60  0000 C CNN
 $EndComp
 Text GLabel 1250 5800 0    50   Input ~ 0
 row7
+Wire Wire Line
+	1250 5500 1350 5500
+Wire Wire Line
+	1250 5600 1350 5600
+Wire Wire Line
+	1250 5700 1350 5700
+Wire Wire Line
+	1250 5800 1350 5800
+Wire Wire Line
+	1250 6000 1350 6000
+Wire Wire Line
+	1250 5400 1350 5400
+Wire Wire Line
+	1250 5300 1350 5300
+$Comp
+L MCU_Microchip_ATmega:ATmega32U4-AU U2
+U 1 1 5CF843C0
+P 4000 2850
+F 0 "U2" H 3600 4600 50  0000 C CNN
+F 1 "ATmega32U4-AU" H 4450 4600 50  0000 C CNN
+F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 4000 2850 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 4000 2850 50  0001 C CNN
+	1    4000 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D11
+U 1 1 5D2BBCCA
+P 4850 2550
+F 0 "D11" H 4850 2450 50  0000 C CNN
+F 1 "LED" H 4850 2650 50  0000 C CNN
+F 2 "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4850 2550 50  0001 C CNN
+F 3 "~" H 4850 2550 50  0001 C CNN
+	1    4850 2550
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4600 2550 4700 2550
+$Comp
+L Device:R R?
+U 1 1 5D2D5095
+P 5200 2550
+AR Path="/6129FE6A/5D2D5095" Ref="R?"  Part="1" 
+AR Path="/5D2D5095" Ref="R18"  Part="1" 
+F 0 "R18" V 5300 2550 50  0000 C CNN
+F 1 "1k" V 5200 2550 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 5130 2550 50  0001 C CNN
+F 3 "~" H 5200 2550 50  0001 C CNN
+	1    5200 2550
+	0    -1   1    0   
+$EndComp
+Wire Wire Line
+	5050 2550 5000 2550
+$Comp
+L power:GND #PWR048
+U 1 1 5D2E4394
+P 5400 2550
+F 0 "#PWR048" H 5400 2300 50  0001 C CNN
+F 1 "GND" V 5405 2422 50  0000 R CNN
+F 2 "" H 5400 2550 50  0001 C CNN
+F 3 "" H 5400 2550 50  0001 C CNN
+	1    5400 2550
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5400 2550 5350 2550
 $EndSCHEMATC
