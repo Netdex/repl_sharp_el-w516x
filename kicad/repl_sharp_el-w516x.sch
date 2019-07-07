@@ -48,7 +48,10 @@ P 3700 5150
 F 0 "C13" V 3750 5050 50  0000 C CNN
 F 1 "0.1u" V 3750 5300 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3700 5150 50  0001 C CNN
-F 3 "~" H 3700 5150 50  0001 C CNN
+F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10B104KO8NNNC.jsp" H 3700 5150 50  0001 C CNN
+F 4 "Assorted display" H 3700 5150 50  0001 C CNN "Description"
+F 5 "1276-1005-1-ND" H 3700 5150 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10B104KO8NNNC/1276-1005-1-ND/3889091" H 3700 5150 50  0001 C CNN "Digi-Key Page"
 	1    3700 5150
 	0    1    -1   0   
 $EndComp
@@ -111,7 +114,10 @@ P 1750 6850
 F 0 "C6" V 1700 6750 50  0000 C CNN
 F 1 "0.1u" V 1700 7000 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 1750 6850 50  0001 C CNN
-F 3 "~" H 1750 6850 50  0001 C CNN
+F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10B104KO8NNNC.jsp" H 1750 6850 50  0001 C CNN
+F 4 "Assorted display" H 1750 6850 50  0001 C CNN "Description"
+F 5 "1276-1005-1-ND" H 1750 6850 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10B104KO8NNNC/1276-1005-1-ND/3889091" H 1750 6850 50  0001 C CNN "Digi-Key Page"
 	1    1750 6850
 	0    -1   1    0   
 $EndComp
@@ -129,10 +135,10 @@ F 6 "Newhaven Display" H 2850 6550 50  0001 L CNN "Manufacturer_Name"
 F 7 "NHD-C12832A1Z-FSW-FBW-3V3" H 2850 6450 50  0001 L CNN "Manufacturer_Part_Number"
 F 8 "763-C12832A1ZFSWFBW3" H 2850 6350 50  0001 L CNN "Mouser Part Number"
 F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=763-C12832A1ZFSWFBW3" H 2850 6250 50  0001 L CNN "Mouser Price/Stock"
-F 10 "" H 2850 6150 50  0001 L CNN "RS Part Number"
-F 11 "" H 2850 6050 50  0001 L CNN "RS Price/Stock"
-F 12 "70518240" H 2850 5950 50  0001 L CNN "Allied_Number"
-F 13 "https://www.alliedelec.com/newhaven-display-international-nhd-c12832a1z-fsw-fbw-3v3/70518240/" H 2850 5850 50  0001 L CNN "Allied Price/Stock"
+F 10 "70518240" H 2850 5950 50  0001 L CNN "Allied_Number"
+F 11 "https://www.alliedelec.com/newhaven-display-international-nhd-c12832a1z-fsw-fbw-3v3/70518240/" H 2850 5850 50  0001 L CNN "Allied Price/Stock"
+F 12 "NHD-C12832A1Z-FSW-FBW-3V3-ND" H 1900 6850 50  0001 C CNN "Digi-Key PN"
+F 13 "https://www.digikey.com/product-detail/en/newhaven-display-intl/NHD-C12832A1Z-FSW-FBW-3V3/NHD-C12832A1Z-FSW-FBW-3V3-ND/2059236" H 1900 6850 50  0001 C CNN "Digi-Key Page"
 	1    1900 6850
 	1    0    0    -1  
 $EndComp
@@ -143,7 +149,10 @@ P 1450 6950
 F 0 "C3" V 1400 6850 50  0000 C CNN
 F 1 "0.1u" V 1400 7100 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 1450 6950 50  0001 C CNN
-F 3 "~" H 1450 6950 50  0001 C CNN
+F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10B104KO8NNNC.jsp" H 1450 6950 50  0001 C CNN
+F 4 "Assorted display" H 1450 6950 50  0001 C CNN "Description"
+F 5 "1276-1005-1-ND" H 1450 6950 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10B104KO8NNNC/1276-1005-1-ND/3889091" H 1450 6950 50  0001 C CNN "Digi-Key Page"
 	1    1450 6950
 	0    -1   1    0   
 $EndComp
@@ -154,7 +163,10 @@ P 1750 7050
 F 0 "C7" V 1700 6950 50  0000 C CNN
 F 1 "0.1u" V 1700 7200 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 1750 7050 50  0001 C CNN
-F 3 "~" H 1750 7050 50  0001 C CNN
+F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10B104KO8NNNC.jsp" H 1750 7050 50  0001 C CNN
+F 4 "Assorted display" H 1750 7050 50  0001 C CNN "Description"
+F 5 "1276-1005-1-ND" H 1750 7050 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10B104KO8NNNC/1276-1005-1-ND/3889091" H 1750 7050 50  0001 C CNN "Digi-Key Page"
 	1    1750 7050
 	0    -1   1    0   
 $EndComp
@@ -165,7 +177,10 @@ P 1450 7150
 F 0 "C4" V 1400 7050 50  0000 C CNN
 F 1 "0.1u" V 1400 7300 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 1450 7150 50  0001 C CNN
-F 3 "~" H 1450 7150 50  0001 C CNN
+F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10B104KO8NNNC.jsp" H 1450 7150 50  0001 C CNN
+F 4 "Assorted display" H 1450 7150 50  0001 C CNN "Description"
+F 5 "1276-1005-1-ND" H 1450 7150 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10B104KO8NNNC/1276-1005-1-ND/3889091" H 1450 7150 50  0001 C CNN "Digi-Key Page"
 	1    1450 7150
 	0    -1   1    0   
 $EndComp
@@ -176,7 +191,10 @@ P 1750 7250
 F 0 "C8" V 1700 7150 50  0000 C CNN
 F 1 "0.1u" V 1700 7400 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 1750 7250 50  0001 C CNN
-F 3 "~" H 1750 7250 50  0001 C CNN
+F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10B104KO8NNNC.jsp" H 1750 7250 50  0001 C CNN
+F 4 "Assorted display" H 1750 7250 50  0001 C CNN "Description"
+F 5 "1276-1005-1-ND" H 1750 7250 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10B104KO8NNNC/1276-1005-1-ND/3889091" H 1750 7250 50  0001 C CNN "Digi-Key Page"
 	1    1750 7250
 	0    -1   1    0   
 $EndComp
@@ -232,7 +250,10 @@ P 1750 7450
 F 0 "C9" V 1700 7350 50  0000 C CNN
 F 1 "1u" V 1700 7550 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 1750 7450 50  0001 C CNN
-F 3 "~" H 1750 7450 50  0001 C CNN
+F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10A105KP8NNNC.jsp" H 1750 7450 50  0001 C CNN
+F 4 "Assorted decoupling" H 1750 7450 50  0001 C CNN "Description"
+F 5 "1276-1182-1-ND" H 1750 7450 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10A105KP8NNNC/1276-1182-1-ND/3889268" H 1750 7450 50  0001 C CNN "Digi-Key Page"
 	1    1750 7450
 	0    -1   1    0   
 $EndComp
@@ -251,7 +272,10 @@ P 1750 7650
 F 0 "C10" V 1700 7550 50  0000 C CNN
 F 1 "1u" V 1700 7750 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 1750 7650 50  0001 C CNN
-F 3 "~" H 1750 7650 50  0001 C CNN
+F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10A105KP8NNNC.jsp" H 1750 7650 50  0001 C CNN
+F 4 "Assorted decoupling" H 1750 7650 50  0001 C CNN "Description"
+F 5 "1276-1182-1-ND" H 1750 7650 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10A105KP8NNNC/1276-1182-1-ND/3889268" H 1750 7650 50  0001 C CNN "Digi-Key Page"
 	1    1750 7650
 	0    -1   1    0   
 $EndComp
@@ -270,7 +294,10 @@ P 1450 7750
 F 0 "C5" V 1400 7650 50  0000 C CNN
 F 1 "1u" V 1400 7850 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 1450 7750 50  0001 C CNN
-F 3 "~" H 1450 7750 50  0001 C CNN
+F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10A105KP8NNNC.jsp" H 1450 7750 50  0001 C CNN
+F 4 "Assorted decoupling" H 1450 7750 50  0001 C CNN "Description"
+F 5 "1276-1182-1-ND" H 1450 7750 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10A105KP8NNNC/1276-1182-1-ND/3889268" H 1450 7750 50  0001 C CNN "Digi-Key Page"
 	1    1450 7750
 	0    -1   1    0   
 $EndComp
@@ -409,7 +436,10 @@ P 2950 2350
 F 0 "R2" V 2950 2300 50  0000 C CNN
 F 1 "22" V 2950 2400 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 2880 2350 50  0001 C CNN
-F 3 "~" H 2950 2350 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 2950 2350 50  0001 C CNN
+F 4 "USB data resistor" H 2950 2350 50  0001 C CNN "Description"
+F 5 "311-22.0HRCT-ND" H 2950 2350 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0722RL/311-22.0HRCT-ND/730002" H 2950 2350 50  0001 C CNN "Digi-Key Page"
 	1    2950 2350
 	0    1    1    0   
 $EndComp
@@ -420,7 +450,10 @@ P 5500 3450
 F 0 "R4" V 5400 3450 50  0000 C CNN
 F 1 "10k" V 5500 3450 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 5430 3450 50  0001 C CNN
-F 3 "~" H 5500 3450 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5500 3450 50  0001 C CNN
+F 4 "Input pull-down resistor" H 5500 3450 50  0001 C CNN "Description"
+F 5 "311-10.0KHRCT-ND" H 5500 3450 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 5500 3450 50  0001 C CNN "Digi-Key Page"
 	1    5500 3450
 	0    1    1    0   
 $EndComp
@@ -431,7 +464,10 @@ P 2950 2450
 F 0 "R3" V 2950 2400 50  0000 C CNN
 F 1 "22" V 2950 2500 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 2880 2450 50  0001 C CNN
-F 3 "~" H 2950 2450 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 2950 2450 50  0001 C CNN
+F 4 "USB data resistor" H 2950 2450 50  0001 C CNN "Description"
+F 5 "311-22.0HRCT-ND" H 2950 2450 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0722RL/311-22.0HRCT-ND/730002" H 2950 2450 50  0001 C CNN "Digi-Key Page"
 	1    2950 2450
 	0    1    1    0   
 $EndComp
@@ -446,7 +482,10 @@ P 3150 2650
 F 0 "C11" V 3050 2600 50  0000 L CNN
 F 1 "1u" V 3200 2700 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3150 2650 50  0001 C CNN
-F 3 "~" H 3150 2650 50  0001 C CNN
+F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10A105KP8NNNC.jsp" H 3150 2650 50  0001 C CNN
+F 4 "Assorted decoupling" H 3150 2650 50  0001 C CNN "Description"
+F 5 "1276-1182-1-ND" H 3150 2650 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10A105KP8NNNC/1276-1182-1-ND/3889268" H 3150 2650 50  0001 C CNN "Digi-Key Page"
 	1    3150 2650
 	0    1    1    0   
 $EndComp
@@ -489,7 +528,10 @@ P 5950 4750
 F 0 "C14" H 5850 4700 50  0000 C CNN
 F 1 "0.1u" H 5850 4850 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5950 4750 50  0001 C CNN
-F 3 "~" H 5950 4750 50  0001 C CNN
+F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10B104KO8NNNC.jsp" H 5950 4750 50  0001 C CNN
+F 4 "Assorted display" H 5950 4750 50  0001 C CNN "Description"
+F 5 "1276-1005-1-ND" H 5950 4750 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10B104KO8NNNC/1276-1005-1-ND/3889091" H 5950 4750 50  0001 C CNN "Digi-Key Page"
 	1    5950 4750
 	-1   0    0    1   
 $EndComp
@@ -540,6 +582,9 @@ F 0 "U3" H 5900 6150 50  0000 C CNN
 F 1 "74HC595" H 5550 6150 50  0000 C CNN
 F 2 "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" H 5800 5600 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/sn74hc595.pdf" H 5800 5600 50  0001 C CNN
+F 4 "8-bit SIPO Shift Register" H 5800 5600 50  0001 C CNN "Description"
+F 5 "296-14857-1-ND" H 5800 5600 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/texas-instruments/SN74HC595DR/296-14857-1-ND/562567" H 5800 5600 50  0001 C CNN "Digi-Key Page"
 	1    5800 5600
 	1    0    0    -1  
 $EndComp
@@ -580,7 +625,10 @@ P 1550 1100
 F 0 "R1" V 1450 1100 50  0000 C CNN
 F 1 "10k" V 1550 1100 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 1480 1100 50  0001 C CNN
-F 3 "~" H 1550 1100 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 1550 1100 50  0001 C CNN
+F 4 "Input pull-down resistor" H 1550 1100 50  0001 C CNN "Description"
+F 5 "311-10.0KHRCT-ND" H 1550 1100 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 1550 1100 50  0001 C CNN "Digi-Key Page"
 	1    1550 1100
 	0    1    1    0   
 $EndComp
@@ -602,7 +650,10 @@ P 1550 1350
 F 0 "SW1" H 1750 1400 50  0000 C CNN
 F 1 "SW_RESET" H 1550 1250 50  0000 C CNN
 F 2 "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm" H 1550 1550 50  0001 C CNN
-F 3 "~" H 1550 1550 50  0001 C CNN
+F 3 "https://www.ckswitches.com/media/1471/pts645.pdf" H 1550 1550 50  0001 C CNN
+F 4 "Reset button" H 1550 1350 50  0001 C CNN "Description"
+F 5 "CKN9112CT-ND" H 1550 1350 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/c-k/PTS645SM43SMTR92-LFS/CKN9112CT-ND/1146934" H 1550 1350 50  0001 C CNN "Digi-Key Page"
 	1    1550 1350
 	1    0    0    -1  
 $EndComp
@@ -620,7 +671,10 @@ P 750 2400
 F 0 "C1" H 550 2450 50  0000 L CNN
 F 1 "22p" H 500 2350 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 750 2400 50  0001 C CNN
-F 3 "~" H 750 2400 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/UPY-GP_NP0_16V-to-50V_16.pdf" H 750 2400 50  0001 C CNN
+F 4 "Oscillator load" H 750 2400 50  0001 C CNN "Description"
+F 5 "311-1062-1-ND" H 750 2400 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/yageo/CC0603JRNPO9BN220/311-1062-1-ND/302972" H 750 2400 50  0001 C CNN "Digi-Key Page"
 	1    750  2400
 	1    0    0    -1  
 $EndComp
@@ -652,7 +706,10 @@ P 1900 2350
 F 0 "J1" H 1957 2817 50  0000 C CNN
 F 1 "USB_B_Micro" H 1957 2726 50  0000 C CNN
 F 2 "Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal" H 2050 2300 50  0001 C CNN
-F 3 "~" H 2050 2300 50  0001 C CNN
+F 3 "https://cdn.amphenol-icc.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_usb_micro.pdf" H 2050 2300 50  0001 C CNN
+F 4 "USB Micro B Amphenol" H 1900 2350 50  0001 C CNN "Description"
+F 5 "609-4613-1-ND" H 1900 2350 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/amphenol-icc-fci/10118192-0001LF/609-4613-1-ND/2785378" H 1900 2350 50  0001 C CNN "Digi-Key Page"
 	1    1900 2350
 	1    0    0    -1  
 $EndComp
@@ -670,7 +727,10 @@ P 1350 2400
 F 0 "C2" H 1442 2446 50  0000 L CNN
 F 1 "22p" H 1442 2355 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 1350 2400 50  0001 C CNN
-F 3 "~" H 1350 2400 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/UPY-GP_NP0_16V-to-50V_16.pdf" H 1350 2400 50  0001 C CNN
+F 4 "Oscillator load" H 1350 2400 50  0001 C CNN "Description"
+F 5 "311-1062-1-ND" H 1350 2400 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/yageo/CC0603JRNPO9BN220/311-1062-1-ND/302972" H 1350 2400 50  0001 C CNN "Digi-Key Page"
 	1    1350 2400
 	1    0    0    -1  
 $EndComp
@@ -884,7 +944,10 @@ P 1050 2250
 F 0 "Y1" H 1050 2518 50  0000 C CNN
 F 1 "Crystal" H 1050 2427 50  0000 C CNN
 F 2 "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm" H 1050 2250 50  0001 C CNN
-F 3 "~" H 1050 2250 50  0001 C CNN
+F 3 "http://www.ecsxtal.com/store/pdf/ecx-53r.pdf" H 1050 2250 50  0001 C CNN
+F 4 "8MHz ±20ppm Crystal 18pF 100 Ohms 2-SMD" H 1050 2250 50  0001 C CNN "Description"
+F 5 "XC2103CT-ND" H 1050 2250 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/ecs-inc/ECS-80-18-30-JGN-TR/XC2103CT-ND/5875587" H 1050 2250 50  0001 C CNN "Digi-Key Page"
 	1    1050 2250
 	1    0    0    -1  
 $EndComp
@@ -987,7 +1050,10 @@ AR Path="/6129FE6A/5D03E6D5" Ref="C?"  Part="1"
 F 0 "C12" V 3700 1000 50  0000 L CNN
 F 1 "4.7u" V 3700 750 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3650 950 50  0001 C CNN
-F 3 "~" H 3650 950 50  0001 C CNN
+F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10A475KQ8NNNC.jsp" H 3650 950 50  0001 C CNN
+F 4 "USB power decoupling" H 3650 950 50  0001 C CNN "Description"
+F 5 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10A475KQ8NNNC/1276-1045-1-ND/3889131" H 3650 950 50  0001 C CNN "Digi-Key Page"
+F 6 "1276-1045-1-ND" H 3650 950 50  0001 C CNN "Digi-Key PN"
 	1    3650 950 
 	0    -1   -1   0   
 $EndComp
@@ -1023,8 +1089,11 @@ U 1 1 5DDA5A4F
 P 1350 5300
 F 0 "U1" H 2450 5687 60  0000 C CNN
 F 1 "74HC165D" H 2450 5581 60  0000 C CNN
-F 2 "footprints:74HC165D" H 2450 5540 60  0001 C CNN
-F 3 "" H 1350 5300 60  0000 C CNN
+F 2 "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" H 2450 5540 60  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT165.pdf" H 1350 5300 60  0001 C CNN
+F 4 "8-bit PISO Shift Register" H 1350 5300 50  0001 C CNN "Description"
+F 5 "1727-3782-ND" H 1350 5300 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/nexperia-usa-inc/74HC165D,652/1727-3782-ND/763577" H 1350 5300 50  0001 C CNN "Digi-Key Page"
 	1    1350 5300
 	1    0    0    -1  
 $EndComp
@@ -1045,24 +1114,16 @@ Wire Wire Line
 Wire Wire Line
 	1250 5300 1350 5300
 $Comp
-L MCU_Microchip_ATmega:ATmega32U4-AU U2
-U 1 1 5CF843C0
-P 4000 2850
-F 0 "U2" H 3600 4600 50  0000 C CNN
-F 1 "ATmega32U4-AU" H 4450 4600 50  0000 C CNN
-F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 4000 2850 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 4000 2850 50  0001 C CNN
-	1    4000 2850
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:LED D11
 U 1 1 5D2BBCCA
 P 4850 2550
 F 0 "D11" H 4850 2450 50  0000 C CNN
 F 1 "LED" H 4850 2650 50  0000 C CNN
 F 2 "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4850 2550 50  0001 C CNN
-F 3 "~" H 4850 2550 50  0001 C CNN
+F 3 "https://www.rohm.com/datasheet/SML-D12U1W" H 4850 2550 50  0001 C CNN
+F 4 "Indicator LED" H 4850 2550 50  0001 C CNN "Description"
+F 5 "SML-D12U1WT86CT-ND" H 4850 2550 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/rohm-semiconductor/SML-D12U1WT86/SML-D12U1WT86CT-ND/5843858" H 4850 2550 50  0001 C CNN "Digi-Key Page"
 	1    4850 2550
 	-1   0    0    1   
 $EndComp
@@ -1077,7 +1138,10 @@ AR Path="/5D2D5095" Ref="R18"  Part="1"
 F 0 "R18" V 5300 2550 50  0000 C CNN
 F 1 "1k" V 5200 2550 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 5130 2550 50  0001 C CNN
-F 3 "~" H 5200 2550 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5200 2550 50  0001 C CNN
+F 4 "LED current limiting" H 5200 2550 50  0001 C CNN "Description"
+F 5 "311-1.00KHRCT-ND" H 5200 2550 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-071KL/311-1.00KHRCT-ND/729790" H 5200 2550 50  0001 C CNN "Digi-Key Page"
 	1    5200 2550
 	0    -1   1    0   
 $EndComp
@@ -1127,4 +1191,18 @@ Wire Wire Line
 	4850 3450 5350 3450
 Wire Wire Line
 	5800 3650 5250 3650
+$Comp
+L MCU_Microchip_ATmega:ATmega32U4-AU U2
+U 1 1 5CF843C0
+P 4000 2850
+F 0 "U2" H 3600 4600 50  0000 C CNN
+F 1 "ATmega32U4-AU" H 4450 4600 50  0000 C CNN
+F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 4000 2850 50  0001 C CIN
+F 3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en590246" H 4000 2850 50  0001 C CNN
+F 4 "ATMEGA32U4-AU uC" H 4000 2850 50  0001 C CNN "Description"
+F 5 "ATMEGA32U4-AURCT-ND" H 4000 2850 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/microchip-technology/ATMEGA32U4-AUR/ATMEGA32U4-AURCT-ND/3440960" H 4000 2850 50  0001 C CNN "Digi-Key Page"
+	1    4000 2850
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

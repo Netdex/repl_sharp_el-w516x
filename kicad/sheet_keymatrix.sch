@@ -186,7 +186,10 @@ AR Path="/61025D3F/61045A4A" Ref="R11"  Part="1"
 F 0 "R11" V 5950 4850 50  0000 C CNN
 F 1 "10k" V 5850 4850 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 5780 4850 50  0001 C CNN
-F 3 "~" H 5850 4850 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5850 4850 50  0001 C CNN
+F 4 "Input pull-down resistor" H 5850 4850 50  0001 C CNN "Description"
+F 5 "311-10.0KHRCT-ND" H 5850 4850 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 5850 4850 50  0001 C CNN "Digi-Key Page"
 	1    5850 4850
 	0    1    1    0   
 $EndComp
@@ -214,7 +217,10 @@ AR Path="/61025D3F/61045A61" Ref="R10"  Part="1"
 F 0 "R10" V 5950 4300 50  0000 C CNN
 F 1 "10k" V 5850 4300 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 5780 4300 50  0001 C CNN
-F 3 "~" H 5850 4300 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5850 4300 50  0001 C CNN
+F 4 "Input pull-down resistor" H 5850 4300 50  0001 C CNN "Description"
+F 5 "311-10.0KHRCT-ND" H 5850 4300 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 5850 4300 50  0001 C CNN "Digi-Key Page"
 	1    5850 4300
 	0    1    1    0   
 $EndComp
@@ -242,7 +248,10 @@ AR Path="/61025D3F/61045A6E" Ref="R9"  Part="1"
 F 0 "R9" V 5950 3750 50  0000 C CNN
 F 1 "10k" V 5850 3750 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 5780 3750 50  0001 C CNN
-F 3 "~" H 5850 3750 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5850 3750 50  0001 C CNN
+F 4 "Input pull-down resistor" H 5850 3750 50  0001 C CNN "Description"
+F 5 "311-10.0KHRCT-ND" H 5850 3750 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 5850 3750 50  0001 C CNN "Digi-Key Page"
 	1    5850 3750
 	0    1    1    0   
 $EndComp
@@ -270,7 +279,10 @@ AR Path="/61025D3F/61045A7B" Ref="R8"  Part="1"
 F 0 "R8" V 5950 3200 50  0000 C CNN
 F 1 "10k" V 5850 3200 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 5780 3200 50  0001 C CNN
-F 3 "~" H 5850 3200 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5850 3200 50  0001 C CNN
+F 4 "Input pull-down resistor" H 5850 3200 50  0001 C CNN "Description"
+F 5 "311-10.0KHRCT-ND" H 5850 3200 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 5850 3200 50  0001 C CNN "Digi-Key Page"
 	1    5850 3200
 	0    1    1    0   
 $EndComp
@@ -298,7 +310,10 @@ AR Path="/61025D3F/61045A88" Ref="R7"  Part="1"
 F 0 "R7" V 5950 2650 50  0000 C CNN
 F 1 "10k" V 5850 2650 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 5780 2650 50  0001 C CNN
-F 3 "~" H 5850 2650 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5850 2650 50  0001 C CNN
+F 4 "Input pull-down resistor" H 5850 2650 50  0001 C CNN "Description"
+F 5 "311-10.0KHRCT-ND" H 5850 2650 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 5850 2650 50  0001 C CNN "Digi-Key Page"
 	1    5850 2650
 	0    1    1    0   
 $EndComp
@@ -339,7 +354,10 @@ AR Path="/61025D3F/61045A9C" Ref="R6"  Part="1"
 F 0 "R6" V 5950 2100 50  0000 C CNN
 F 1 "10k" V 5850 2100 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 5780 2100 50  0001 C CNN
-F 3 "~" H 5850 2100 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5850 2100 50  0001 C CNN
+F 4 "Input pull-down resistor" H 5850 2100 50  0001 C CNN "Description"
+F 5 "311-10.0KHRCT-ND" H 5850 2100 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 5850 2100 50  0001 C CNN "Digi-Key Page"
 	1    5850 2100
 	0    1    1    0   
 $EndComp
@@ -916,7 +934,10 @@ AR Path="/61025D3F/61045D66" Ref="R5"  Part="1"
 F 0 "R5" V 5950 1550 50  0000 C CNN
 F 1 "10k" V 5850 1550 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 5780 1550 50  0001 C CNN
-F 3 "~" H 5850 1550 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5850 1550 50  0001 C CNN
+F 4 "Input pull-down resistor" H 5850 1550 50  0001 C CNN "Description"
+F 5 "311-10.0KHRCT-ND" H 5850 1550 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 5850 1550 50  0001 C CNN "Digi-Key Page"
 	1    5850 1550
 	0    1    1    0   
 $EndComp
@@ -962,7 +983,10 @@ AR Path="/61025D3F/61DC6608" Ref="D3"  Part="1"
 F 0 "D3" V 2946 971 50  0000 R CNN
 F 1 "D" V 2855 971 50  0000 R CNN
 F 2 "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 2900 1050 50  0001 C CNN
-F 3 "~" H 2900 1050 50  0001 C CNN
+F 3 "https://www.taiwansemi.com/products/datasheet/TS4148C_G1809.pdf" H 2900 1050 50  0001 C CNN
+F 4 "Switch matrix protection" H 2900 1050 50  0001 C CNN "Description"
+F 5 "TS4148CRZGCT-ND" H 2900 1050 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/taiwan-semiconductor-corporation/TS4148C-RZG/TS4148CRZGCT-ND/7359812" H 2900 1050 50  0001 C CNN "Digi-Key Page"
 	1    2900 1050
 	0    -1   -1   0   
 $EndComp
@@ -976,7 +1000,10 @@ AR Path="/61025D3F/61DC7022" Ref="D4"  Part="1"
 F 0 "D4" V 3496 971 50  0000 R CNN
 F 1 "D" V 3405 971 50  0000 R CNN
 F 2 "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3450 1050 50  0001 C CNN
-F 3 "~" H 3450 1050 50  0001 C CNN
+F 3 "https://www.taiwansemi.com/products/datasheet/TS4148C_G1809.pdf" H 3450 1050 50  0001 C CNN
+F 4 "Switch matrix protection" H 3450 1050 50  0001 C CNN "Description"
+F 5 "TS4148CRZGCT-ND" H 3450 1050 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/taiwan-semiconductor-corporation/TS4148C-RZG/TS4148CRZGCT-ND/7359812" H 3450 1050 50  0001 C CNN "Digi-Key Page"
 	1    3450 1050
 	0    -1   -1   0   
 $EndComp
@@ -990,7 +1017,10 @@ AR Path="/61025D3F/61DC8274" Ref="D6"  Part="1"
 F 0 "D6" V 4596 971 50  0000 R CNN
 F 1 "D" V 4505 971 50  0000 R CNN
 F 2 "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4550 1050 50  0001 C CNN
-F 3 "~" H 4550 1050 50  0001 C CNN
+F 3 "https://www.taiwansemi.com/products/datasheet/TS4148C_G1809.pdf" H 4550 1050 50  0001 C CNN
+F 4 "Switch matrix protection" H 4550 1050 50  0001 C CNN "Description"
+F 5 "TS4148CRZGCT-ND" H 4550 1050 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/taiwan-semiconductor-corporation/TS4148C-RZG/TS4148CRZGCT-ND/7359812" H 4550 1050 50  0001 C CNN "Digi-Key Page"
 	1    4550 1050
 	0    -1   -1   0   
 $EndComp
@@ -1004,7 +1034,10 @@ AR Path="/61025D3F/61DC8BB5" Ref="D7"  Part="1"
 F 0 "D7" V 5146 971 50  0000 R CNN
 F 1 "D" V 5055 971 50  0000 R CNN
 F 2 "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5100 1050 50  0001 C CNN
-F 3 "~" H 5100 1050 50  0001 C CNN
+F 3 "https://www.taiwansemi.com/products/datasheet/TS4148C_G1809.pdf" H 5100 1050 50  0001 C CNN
+F 4 "Switch matrix protection" H 5100 1050 50  0001 C CNN "Description"
+F 5 "TS4148CRZGCT-ND" H 5100 1050 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/taiwan-semiconductor-corporation/TS4148C-RZG/TS4148CRZGCT-ND/7359812" H 5100 1050 50  0001 C CNN "Digi-Key Page"
 	1    5100 1050
 	0    -1   -1   0   
 $EndComp
@@ -1018,7 +1051,10 @@ AR Path="/61025D3F/61DC9501" Ref="D8"  Part="1"
 F 0 "D8" V 5696 971 50  0000 R CNN
 F 1 "D" V 5605 971 50  0000 R CNN
 F 2 "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5650 1050 50  0001 C CNN
-F 3 "~" H 5650 1050 50  0001 C CNN
+F 3 "https://www.taiwansemi.com/products/datasheet/TS4148C_G1809.pdf" H 5650 1050 50  0001 C CNN
+F 4 "Switch matrix protection" H 5650 1050 50  0001 C CNN "Description"
+F 5 "TS4148CRZGCT-ND" H 5650 1050 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/taiwan-semiconductor-corporation/TS4148C-RZG/TS4148CRZGCT-ND/7359812" H 5650 1050 50  0001 C CNN "Digi-Key Page"
 	1    5650 1050
 	0    -1   -1   0   
 $EndComp
@@ -1045,7 +1081,10 @@ AR Path="/61025D3F/61DC58ED" Ref="D2"  Part="1"
 F 0 "D2" V 2396 971 50  0000 R CNN
 F 1 "D" V 2305 971 50  0000 R CNN
 F 2 "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 2350 1050 50  0001 C CNN
-F 3 "~" H 2350 1050 50  0001 C CNN
+F 3 "https://www.taiwansemi.com/products/datasheet/TS4148C_G1809.pdf" H 2350 1050 50  0001 C CNN
+F 4 "Switch matrix protection" H 2350 1050 50  0001 C CNN "Description"
+F 5 "TS4148CRZGCT-ND" H 2350 1050 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/taiwan-semiconductor-corporation/TS4148C-RZG/TS4148CRZGCT-ND/7359812" H 2350 1050 50  0001 C CNN "Digi-Key Page"
 	1    2350 1050
 	0    -1   -1   0   
 $EndComp
@@ -1058,7 +1097,10 @@ AR Path="/61025D3F/61DC4F89" Ref="D1"  Part="1"
 F 0 "D1" V 1846 971 50  0000 R CNN
 F 1 "D" V 1755 971 50  0000 R CNN
 F 2 "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 1800 1050 50  0001 C CNN
-F 3 "~" H 1800 1050 50  0001 C CNN
+F 3 "https://www.taiwansemi.com/products/datasheet/TS4148C_G1809.pdf" H 1800 1050 50  0001 C CNN
+F 4 "Switch matrix protection" H 1800 1050 50  0001 C CNN "Description"
+F 5 "TS4148CRZGCT-ND" H 1800 1050 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/taiwan-semiconductor-corporation/TS4148C-RZG/TS4148CRZGCT-ND/7359812" H 1800 1050 50  0001 C CNN "Digi-Key Page"
 	1    1800 1050
 	0    -1   -1   0   
 $EndComp
@@ -1306,7 +1348,10 @@ AR Path="/61025D3F/61DC78DA" Ref="D5"  Part="1"
 F 0 "D5" V 4046 971 50  0000 R CNN
 F 1 "D" V 3955 971 50  0000 R CNN
 F 2 "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4000 1050 50  0001 C CNN
-F 3 "~" H 4000 1050 50  0001 C CNN
+F 3 "https://www.taiwansemi.com/products/datasheet/TS4148C_G1809.pdf" H 4000 1050 50  0001 C CNN
+F 4 "Switch matrix protection" H 4000 1050 50  0001 C CNN "Description"
+F 5 "TS4148CRZGCT-ND" H 4000 1050 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/taiwan-semiconductor-corporation/TS4148C-RZG/TS4148CRZGCT-ND/7359812" H 4000 1050 50  0001 C CNN "Digi-Key Page"
 	1    4000 1050
 	0    -1   -1   0   
 $EndComp
@@ -1331,7 +1376,10 @@ AR Path="/61025D3F/5D225FE3" Ref="R12"  Part="1"
 F 0 "R12" V 5950 5400 50  0000 C CNN
 F 1 "10k" V 5850 5400 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 5780 5400 50  0001 C CNN
-F 3 "~" H 5850 5400 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5850 5400 50  0001 C CNN
+F 4 "Input pull-down resistor" H 5850 5400 50  0001 C CNN "Description"
+F 5 "311-10.0KHRCT-ND" H 5850 5400 50  0001 C CNN "Digi-Key PN"
+F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 5850 5400 50  0001 C CNN "Digi-Key Page"
 	1    5850 5400
 	0    1    1    0   
 $EndComp

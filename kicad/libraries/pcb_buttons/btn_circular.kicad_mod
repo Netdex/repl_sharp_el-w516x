@@ -1,4 +1,5 @@
-(module btn_circular (layer F.Cu) (tedit 5CFD596A)
+(module btn_circular (layer F.Cu) (tedit 5D224B16)
+  (attr virtual)
   (fp_text reference REF** (at 0 -5.31) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
   )
