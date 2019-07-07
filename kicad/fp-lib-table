@@ -1,6 +1,5 @@
 (fp_lib_table
   (lib (name NHD-C12832A1Z-FSW-FBW-3V3)(type KiCad)(uri /home/netdex/Documents/kicad/libraries/NHD-C12832A1Z-FSW-FBW-3V3)(options "")(descr ""))
-  (lib (name footprints)(type KiCad)(uri /home/netdex/Documents/kicad/libraries/74HC165D/footprints.pretty)(options "")(descr ""))
   (lib (name keyboard_parts)(type KiCad)(uri /home/netdex/Documents/kicad/libraries/keyboard_parts.pretty)(options "")(descr ""))
   (lib (name kicad_lib_tmk)(type KiCad)(uri /home/netdex/Documents/kicad/libraries/kicad_lib_tmk)(options "")(descr ""))
   (lib (name pcb_buttons)(type KiCad)(uri ${KIPRJMOD}/libraries/pcb_buttons)(options "")(descr ""))
