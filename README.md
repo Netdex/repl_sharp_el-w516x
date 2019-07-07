@@ -55,14 +55,11 @@ maintain system function.
 An ATMEGA32U4 microcontroller controls the display, input polling via shift registers, and computation. It is 
 programmable via USB interface (factory ships with bootloader). ICSP is exposed via pads if required. 
 
-Since the uC is powered by 3V3, an external 8 MHz oscillator is provides clock source.
-
-## Motivation
-My calculator broke. The SHARP EL-W516X has the best form factor and layout of any calculator I've used before, so 
-I wanted to preserve that (without buying a new one, of course).
+Since the uC is powered by 3V3, an external 8 MHz oscillator provides the clock source.
 
 ## BOM
-[InteractiveHtmlBom](https://rawcdn.githack.com/Netdex/repl_sharp_el-w516x/a8375ae9503bf02624d4f8ea63de76c292f4108a/kicad/bom/ibom.html)
+[InteractiveHtmlBom](https://raw.githack.com/Netdex/repl_sharp_el-w516x/master/kicad/bom/ibom.html)
+
 ## Pictures
 ![](https://i.imgur.com/iC0rI9Z.png)
 ![](https://i.imgur.com/7qBPTp5.png)
