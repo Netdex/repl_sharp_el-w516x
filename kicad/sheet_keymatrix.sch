@@ -190,6 +190,7 @@ F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5850
 F 4 "Input pull-down resistor" H 5850 4850 50  0001 C CNN "Description"
 F 5 "311-10.0KHRCT-ND" H 5850 4850 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 5850 4850 50  0001 C CNN "Digi-Key Page"
+F 7 "RC0603FR-0710KL" H 5850 4850 50  0001 C CNN "part_num"
 	1    5850 4850
 	0    1    1    0   
 $EndComp
@@ -221,6 +222,7 @@ F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5850
 F 4 "Input pull-down resistor" H 5850 4300 50  0001 C CNN "Description"
 F 5 "311-10.0KHRCT-ND" H 5850 4300 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 5850 4300 50  0001 C CNN "Digi-Key Page"
+F 7 "RC0603FR-0710KL" H 5850 4300 50  0001 C CNN "part_num"
 	1    5850 4300
 	0    1    1    0   
 $EndComp
@@ -252,6 +254,7 @@ F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5850
 F 4 "Input pull-down resistor" H 5850 3750 50  0001 C CNN "Description"
 F 5 "311-10.0KHRCT-ND" H 5850 3750 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 5850 3750 50  0001 C CNN "Digi-Key Page"
+F 7 "RC0603FR-0710KL" H 5850 3750 50  0001 C CNN "part_num"
 	1    5850 3750
 	0    1    1    0   
 $EndComp
@@ -283,6 +286,7 @@ F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5850
 F 4 "Input pull-down resistor" H 5850 3200 50  0001 C CNN "Description"
 F 5 "311-10.0KHRCT-ND" H 5850 3200 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 5850 3200 50  0001 C CNN "Digi-Key Page"
+F 7 "RC0603FR-0710KL" H 5850 3200 50  0001 C CNN "part_num"
 	1    5850 3200
 	0    1    1    0   
 $EndComp
@@ -314,6 +318,7 @@ F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5850
 F 4 "Input pull-down resistor" H 5850 2650 50  0001 C CNN "Description"
 F 5 "311-10.0KHRCT-ND" H 5850 2650 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 5850 2650 50  0001 C CNN "Digi-Key Page"
+F 7 "RC0603FR-0710KL" H 5850 2650 50  0001 C CNN "part_num"
 	1    5850 2650
 	0    1    1    0   
 $EndComp
@@ -358,6 +363,7 @@ F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5850
 F 4 "Input pull-down resistor" H 5850 2100 50  0001 C CNN "Description"
 F 5 "311-10.0KHRCT-ND" H 5850 2100 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 5850 2100 50  0001 C CNN "Digi-Key Page"
+F 7 "RC0603FR-0710KL" H 5850 2100 50  0001 C CNN "part_num"
 	1    5850 2100
 	0    1    1    0   
 $EndComp
@@ -938,6 +944,7 @@ F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5850
 F 4 "Input pull-down resistor" H 5850 1550 50  0001 C CNN "Description"
 F 5 "311-10.0KHRCT-ND" H 5850 1550 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 5850 1550 50  0001 C CNN "Digi-Key Page"
+F 7 "RC0603FR-0710KL" H 5850 1550 50  0001 C CNN "part_num"
 	1    5850 1550
 	0    1    1    0   
 $EndComp
@@ -987,6 +994,7 @@ F 3 "https://www.taiwansemi.com/products/datasheet/TS4148C_G1809.pdf" H 2900 105
 F 4 "Switch matrix protection" H 2900 1050 50  0001 C CNN "Description"
 F 5 "TS4148CRZGCT-ND" H 2900 1050 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/taiwan-semiconductor-corporation/TS4148C-RZG/TS4148CRZGCT-ND/7359812" H 2900 1050 50  0001 C CNN "Digi-Key Page"
+F 7 "TS4148C RZG" H 2900 1050 50  0001 C CNN "part_num"
 	1    2900 1050
 	0    -1   -1   0   
 $EndComp
@@ -1004,6 +1012,7 @@ F 3 "https://www.taiwansemi.com/products/datasheet/TS4148C_G1809.pdf" H 3450 105
 F 4 "Switch matrix protection" H 3450 1050 50  0001 C CNN "Description"
 F 5 "TS4148CRZGCT-ND" H 3450 1050 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/taiwan-semiconductor-corporation/TS4148C-RZG/TS4148CRZGCT-ND/7359812" H 3450 1050 50  0001 C CNN "Digi-Key Page"
+F 7 "TS4148C RZG" H 3450 1050 50  0001 C CNN "part_num"
 	1    3450 1050
 	0    -1   -1   0   
 $EndComp
@@ -1021,6 +1030,7 @@ F 3 "https://www.taiwansemi.com/products/datasheet/TS4148C_G1809.pdf" H 4550 105
 F 4 "Switch matrix protection" H 4550 1050 50  0001 C CNN "Description"
 F 5 "TS4148CRZGCT-ND" H 4550 1050 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/taiwan-semiconductor-corporation/TS4148C-RZG/TS4148CRZGCT-ND/7359812" H 4550 1050 50  0001 C CNN "Digi-Key Page"
+F 7 "TS4148C RZG" H 4550 1050 50  0001 C CNN "part_num"
 	1    4550 1050
 	0    -1   -1   0   
 $EndComp
@@ -1038,6 +1048,7 @@ F 3 "https://www.taiwansemi.com/products/datasheet/TS4148C_G1809.pdf" H 5100 105
 F 4 "Switch matrix protection" H 5100 1050 50  0001 C CNN "Description"
 F 5 "TS4148CRZGCT-ND" H 5100 1050 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/taiwan-semiconductor-corporation/TS4148C-RZG/TS4148CRZGCT-ND/7359812" H 5100 1050 50  0001 C CNN "Digi-Key Page"
+F 7 "TS4148C RZG" H 5100 1050 50  0001 C CNN "part_num"
 	1    5100 1050
 	0    -1   -1   0   
 $EndComp
@@ -1055,6 +1066,7 @@ F 3 "https://www.taiwansemi.com/products/datasheet/TS4148C_G1809.pdf" H 5650 105
 F 4 "Switch matrix protection" H 5650 1050 50  0001 C CNN "Description"
 F 5 "TS4148CRZGCT-ND" H 5650 1050 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/taiwan-semiconductor-corporation/TS4148C-RZG/TS4148CRZGCT-ND/7359812" H 5650 1050 50  0001 C CNN "Digi-Key Page"
+F 7 "TS4148C RZG" H 5650 1050 50  0001 C CNN "part_num"
 	1    5650 1050
 	0    -1   -1   0   
 $EndComp
@@ -1085,6 +1097,7 @@ F 3 "https://www.taiwansemi.com/products/datasheet/TS4148C_G1809.pdf" H 2350 105
 F 4 "Switch matrix protection" H 2350 1050 50  0001 C CNN "Description"
 F 5 "TS4148CRZGCT-ND" H 2350 1050 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/taiwan-semiconductor-corporation/TS4148C-RZG/TS4148CRZGCT-ND/7359812" H 2350 1050 50  0001 C CNN "Digi-Key Page"
+F 7 "TS4148C RZG" H 2350 1050 50  0001 C CNN "part_num"
 	1    2350 1050
 	0    -1   -1   0   
 $EndComp
@@ -1101,6 +1114,7 @@ F 3 "https://www.taiwansemi.com/products/datasheet/TS4148C_G1809.pdf" H 1800 105
 F 4 "Switch matrix protection" H 1800 1050 50  0001 C CNN "Description"
 F 5 "TS4148CRZGCT-ND" H 1800 1050 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/taiwan-semiconductor-corporation/TS4148C-RZG/TS4148CRZGCT-ND/7359812" H 1800 1050 50  0001 C CNN "Digi-Key Page"
+F 7 "TS4148C RZG" H 1800 1050 50  0001 C CNN "part_num"
 	1    1800 1050
 	0    -1   -1   0   
 $EndComp
@@ -1352,6 +1366,7 @@ F 3 "https://www.taiwansemi.com/products/datasheet/TS4148C_G1809.pdf" H 4000 105
 F 4 "Switch matrix protection" H 4000 1050 50  0001 C CNN "Description"
 F 5 "TS4148CRZGCT-ND" H 4000 1050 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/taiwan-semiconductor-corporation/TS4148C-RZG/TS4148CRZGCT-ND/7359812" H 4000 1050 50  0001 C CNN "Digi-Key Page"
+F 7 "TS4148C RZG" H 4000 1050 50  0001 C CNN "part_num"
 	1    4000 1050
 	0    -1   -1   0   
 $EndComp
@@ -1380,6 +1395,7 @@ F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5850
 F 4 "Input pull-down resistor" H 5850 5400 50  0001 C CNN "Description"
 F 5 "311-10.0KHRCT-ND" H 5850 5400 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 5850 5400 50  0001 C CNN "Digi-Key Page"
+F 7 "RC0603FR-0710KL" H 5850 5400 50  0001 C CNN "part_num"
 	1    5850 5400
 	0    1    1    0   
 $EndComp

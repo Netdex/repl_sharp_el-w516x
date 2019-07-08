@@ -52,6 +52,7 @@ F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10B104KO8NNNC.js
 F 4 "Assorted display" H 3700 5150 50  0001 C CNN "Description"
 F 5 "1276-1005-1-ND" H 3700 5150 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10B104KO8NNNC/1276-1005-1-ND/3889091" H 3700 5150 50  0001 C CNN "Digi-Key Page"
+F 7 "CL10B104KO8NNNC" H 3700 5150 50  0001 C CNN "part_num"
 	1    3700 5150
 	0    1    -1   0   
 $EndComp
@@ -118,6 +119,7 @@ F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10B104KO8NNNC.js
 F 4 "Assorted display" H 1750 6850 50  0001 C CNN "Description"
 F 5 "1276-1005-1-ND" H 1750 6850 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10B104KO8NNNC/1276-1005-1-ND/3889091" H 1750 6850 50  0001 C CNN "Digi-Key Page"
+F 7 "CL10B104KO8NNNC" H 1750 6850 50  0001 C CNN "part_num"
 	1    1750 6850
 	0    -1   1    0   
 $EndComp
@@ -139,6 +141,7 @@ F 10 "70518240" H 2850 5950 50  0001 L CNN "Allied_Number"
 F 11 "https://www.alliedelec.com/newhaven-display-international-nhd-c12832a1z-fsw-fbw-3v3/70518240/" H 2850 5850 50  0001 L CNN "Allied Price/Stock"
 F 12 "NHD-C12832A1Z-FSW-FBW-3V3-ND" H 1900 6850 50  0001 C CNN "Digi-Key PN"
 F 13 "https://www.digikey.com/product-detail/en/newhaven-display-intl/NHD-C12832A1Z-FSW-FBW-3V3/NHD-C12832A1Z-FSW-FBW-3V3-ND/2059236" H 1900 6850 50  0001 C CNN "Digi-Key Page"
+F 14 "NHD-C12832A1Z-FSW-FBW-3V3" H 1900 6850 50  0001 C CNN "part_num"
 	1    1900 6850
 	1    0    0    -1  
 $EndComp
@@ -153,6 +156,7 @@ F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10B104KO8NNNC.js
 F 4 "Assorted display" H 1450 6950 50  0001 C CNN "Description"
 F 5 "1276-1005-1-ND" H 1450 6950 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10B104KO8NNNC/1276-1005-1-ND/3889091" H 1450 6950 50  0001 C CNN "Digi-Key Page"
+F 7 "CL10B104KO8NNNC" H 1450 6950 50  0001 C CNN "part_num"
 	1    1450 6950
 	0    -1   1    0   
 $EndComp
@@ -167,6 +171,7 @@ F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10B104KO8NNNC.js
 F 4 "Assorted display" H 1750 7050 50  0001 C CNN "Description"
 F 5 "1276-1005-1-ND" H 1750 7050 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10B104KO8NNNC/1276-1005-1-ND/3889091" H 1750 7050 50  0001 C CNN "Digi-Key Page"
+F 7 "CL10B104KO8NNNC" H 1750 7050 50  0001 C CNN "part_num"
 	1    1750 7050
 	0    -1   1    0   
 $EndComp
@@ -181,6 +186,7 @@ F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10B104KO8NNNC.js
 F 4 "Assorted display" H 1450 7150 50  0001 C CNN "Description"
 F 5 "1276-1005-1-ND" H 1450 7150 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10B104KO8NNNC/1276-1005-1-ND/3889091" H 1450 7150 50  0001 C CNN "Digi-Key Page"
+F 7 "CL10B104KO8NNNC" H 1450 7150 50  0001 C CNN "part_num"
 	1    1450 7150
 	0    -1   1    0   
 $EndComp
@@ -195,6 +201,7 @@ F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10B104KO8NNNC.js
 F 4 "Assorted display" H 1750 7250 50  0001 C CNN "Description"
 F 5 "1276-1005-1-ND" H 1750 7250 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10B104KO8NNNC/1276-1005-1-ND/3889091" H 1750 7250 50  0001 C CNN "Digi-Key Page"
+F 7 "CL10B104KO8NNNC" H 1750 7250 50  0001 C CNN "part_num"
 	1    1750 7250
 	0    -1   1    0   
 $EndComp
@@ -254,6 +261,7 @@ F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10A105KP8NNNC.js
 F 4 "Assorted decoupling" H 1750 7450 50  0001 C CNN "Description"
 F 5 "1276-1182-1-ND" H 1750 7450 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10A105KP8NNNC/1276-1182-1-ND/3889268" H 1750 7450 50  0001 C CNN "Digi-Key Page"
+F 7 "CL10A105KP8NNNC" H 1750 7450 50  0001 C CNN "part_num"
 	1    1750 7450
 	0    -1   1    0   
 $EndComp
@@ -276,6 +284,7 @@ F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10A105KP8NNNC.js
 F 4 "Assorted decoupling" H 1750 7650 50  0001 C CNN "Description"
 F 5 "1276-1182-1-ND" H 1750 7650 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10A105KP8NNNC/1276-1182-1-ND/3889268" H 1750 7650 50  0001 C CNN "Digi-Key Page"
+F 7 "CL10A105KP8NNNC" H 1750 7650 50  0001 C CNN "part_num"
 	1    1750 7650
 	0    -1   1    0   
 $EndComp
@@ -298,6 +307,7 @@ F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10A105KP8NNNC.js
 F 4 "Assorted decoupling" H 1450 7750 50  0001 C CNN "Description"
 F 5 "1276-1182-1-ND" H 1450 7750 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10A105KP8NNNC/1276-1182-1-ND/3889268" H 1450 7750 50  0001 C CNN "Digi-Key Page"
+F 7 "CL10A105KP8NNNC" H 1450 7750 50  0001 C CNN "part_num"
 	1    1450 7750
 	0    -1   1    0   
 $EndComp
@@ -440,6 +450,7 @@ F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 2950
 F 4 "USB data resistor" H 2950 2350 50  0001 C CNN "Description"
 F 5 "311-22.0HRCT-ND" H 2950 2350 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0722RL/311-22.0HRCT-ND/730002" H 2950 2350 50  0001 C CNN "Digi-Key Page"
+F 7 "RC0603FR-0722RL" H 2950 2350 50  0001 C CNN "part_num"
 	1    2950 2350
 	0    1    1    0   
 $EndComp
@@ -454,6 +465,7 @@ F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5500
 F 4 "Input pull-down resistor" H 5500 3450 50  0001 C CNN "Description"
 F 5 "311-10.0KHRCT-ND" H 5500 3450 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 5500 3450 50  0001 C CNN "Digi-Key Page"
+F 7 "RC0603FR-0710KL" H 5500 3450 50  0001 C CNN "part_num"
 	1    5500 3450
 	0    1    1    0   
 $EndComp
@@ -468,6 +480,7 @@ F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 2950
 F 4 "USB data resistor" H 2950 2450 50  0001 C CNN "Description"
 F 5 "311-22.0HRCT-ND" H 2950 2450 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0722RL/311-22.0HRCT-ND/730002" H 2950 2450 50  0001 C CNN "Digi-Key Page"
+F 7 "RC0603FR-0722RL" H 2950 2450 50  0001 C CNN "part_num"
 	1    2950 2450
 	0    1    1    0   
 $EndComp
@@ -486,6 +499,7 @@ F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10A105KP8NNNC.js
 F 4 "Assorted decoupling" H 3150 2650 50  0001 C CNN "Description"
 F 5 "1276-1182-1-ND" H 3150 2650 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10A105KP8NNNC/1276-1182-1-ND/3889268" H 3150 2650 50  0001 C CNN "Digi-Key Page"
+F 7 "CL10A105KP8NNNC" H 3150 2650 50  0001 C CNN "part_num"
 	1    3150 2650
 	0    1    1    0   
 $EndComp
@@ -532,6 +546,7 @@ F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10B104KO8NNNC.js
 F 4 "Assorted display" H 5950 4750 50  0001 C CNN "Description"
 F 5 "1276-1005-1-ND" H 5950 4750 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10B104KO8NNNC/1276-1005-1-ND/3889091" H 5950 4750 50  0001 C CNN "Digi-Key Page"
+F 7 "CL10B104KO8NNNC" H 5950 4750 50  0001 C CNN "part_num"
 	1    5950 4750
 	-1   0    0    1   
 $EndComp
@@ -585,6 +600,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/sn74hc595.pdf" H 5800 5600 50  0001 C CNN
 F 4 "8-bit SIPO Shift Register" H 5800 5600 50  0001 C CNN "Description"
 F 5 "296-14857-1-ND" H 5800 5600 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/texas-instruments/SN74HC595DR/296-14857-1-ND/562567" H 5800 5600 50  0001 C CNN "Digi-Key Page"
+F 7 "SN74HC595DR" H 5800 5600 50  0001 C CNN "part_num"
 	1    5800 5600
 	1    0    0    -1  
 $EndComp
@@ -629,6 +645,7 @@ F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 1550
 F 4 "Input pull-down resistor" H 1550 1100 50  0001 C CNN "Description"
 F 5 "311-10.0KHRCT-ND" H 1550 1100 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRCT-ND/729827" H 1550 1100 50  0001 C CNN "Digi-Key Page"
+F 7 "RC0603FR-0710KL" H 1550 1100 50  0001 C CNN "part_num"
 	1    1550 1100
 	0    1    1    0   
 $EndComp
@@ -654,6 +671,7 @@ F 3 "https://www.ckswitches.com/media/1471/pts645.pdf" H 1550 1550 50  0001 C CN
 F 4 "Reset button" H 1550 1350 50  0001 C CNN "Description"
 F 5 "CKN9112CT-ND" H 1550 1350 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/c-k/PTS645SM43SMTR92-LFS/CKN9112CT-ND/1146934" H 1550 1350 50  0001 C CNN "Digi-Key Page"
+F 7 "PTS645SM43SMTR92 LFS" H 1550 1350 50  0001 C CNN "part_num"
 	1    1550 1350
 	1    0    0    -1  
 $EndComp
@@ -675,6 +693,7 @@ F 3 "http://www.yageo.com/documents/recent/UPY-GP_NP0_16V-to-50V_16.pdf" H 750 2
 F 4 "Oscillator load" H 750 2400 50  0001 C CNN "Description"
 F 5 "311-1062-1-ND" H 750 2400 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/yageo/CC0603JRNPO9BN220/311-1062-1-ND/302972" H 750 2400 50  0001 C CNN "Digi-Key Page"
+F 7 "CC0603JRNPO9BN220" H 750 2400 50  0001 C CNN "part_num"
 	1    750  2400
 	1    0    0    -1  
 $EndComp
@@ -710,6 +729,7 @@ F 3 "https://cdn.amphenol-icc.com/media/wysiwyg/files/documentation/datasheet/in
 F 4 "USB Micro B Amphenol" H 1900 2350 50  0001 C CNN "Description"
 F 5 "609-4613-1-ND" H 1900 2350 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/amphenol-icc-fci/10118192-0001LF/609-4613-1-ND/2785378" H 1900 2350 50  0001 C CNN "Digi-Key Page"
+F 7 "10118192-0001LF" H 1900 2350 50  0001 C CNN "part_num"
 	1    1900 2350
 	1    0    0    -1  
 $EndComp
@@ -731,6 +751,7 @@ F 3 "http://www.yageo.com/documents/recent/UPY-GP_NP0_16V-to-50V_16.pdf" H 1350 
 F 4 "Oscillator load" H 1350 2400 50  0001 C CNN "Description"
 F 5 "311-1062-1-ND" H 1350 2400 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/yageo/CC0603JRNPO9BN220/311-1062-1-ND/302972" H 1350 2400 50  0001 C CNN "Digi-Key Page"
+F 7 "CC0603JRNPO9BN220" H 1350 2400 50  0001 C CNN "part_num"
 	1    1350 2400
 	1    0    0    -1  
 $EndComp
@@ -948,6 +969,7 @@ F 3 "http://www.ecsxtal.com/store/pdf/ecx-53r.pdf" H 1050 2250 50  0001 C CNN
 F 4 "8MHz ±20ppm Crystal 18pF 100 Ohms 2-SMD" H 1050 2250 50  0001 C CNN "Description"
 F 5 "XC2103CT-ND" H 1050 2250 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/ecs-inc/ECS-80-18-30-JGN-TR/XC2103CT-ND/5875587" H 1050 2250 50  0001 C CNN "Digi-Key Page"
+F 7 "ECS-80-18-30-JGN-TR" H 1050 2250 50  0001 C CNN "part_num"
 	1    1050 2250
 	1    0    0    -1  
 $EndComp
@@ -1054,6 +1076,7 @@ F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10A475KQ8NNNC.js
 F 4 "USB power decoupling" H 3650 950 50  0001 C CNN "Description"
 F 5 "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10A475KQ8NNNC/1276-1045-1-ND/3889131" H 3650 950 50  0001 C CNN "Digi-Key Page"
 F 6 "1276-1045-1-ND" H 3650 950 50  0001 C CNN "Digi-Key PN"
+F 7 "CL10A475KQ8NNNC" H 3650 950 50  0001 C CNN "part_num"
 	1    3650 950 
 	0    -1   -1   0   
 $EndComp
@@ -1094,6 +1117,7 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT165.pdf" H 1350 53
 F 4 "8-bit PISO Shift Register" H 1350 5300 50  0001 C CNN "Description"
 F 5 "1727-3782-ND" H 1350 5300 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/nexperia-usa-inc/74HC165D,652/1727-3782-ND/763577" H 1350 5300 50  0001 C CNN "Digi-Key Page"
+F 7 "74HC165D\\,652" H 1350 5300 50  0001 C CNN "part_num"
 	1    1350 5300
 	1    0    0    -1  
 $EndComp
@@ -1124,6 +1148,7 @@ F 3 "https://www.rohm.com/datasheet/SML-D12U1W" H 4850 2550 50  0001 C CNN
 F 4 "Indicator LED" H 4850 2550 50  0001 C CNN "Description"
 F 5 "SML-D12U1WT86CT-ND" H 4850 2550 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/rohm-semiconductor/SML-D12U1WT86/SML-D12U1WT86CT-ND/5843858" H 4850 2550 50  0001 C CNN "Digi-Key Page"
+F 7 "SML-D12U1WT86" H 4850 2550 50  0001 C CNN "part_num"
 	1    4850 2550
 	-1   0    0    1   
 $EndComp
@@ -1142,6 +1167,7 @@ F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf" H 5200
 F 4 "LED current limiting" H 5200 2550 50  0001 C CNN "Description"
 F 5 "311-1.00KHRCT-ND" H 5200 2550 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/yageo/RC0603FR-071KL/311-1.00KHRCT-ND/729790" H 5200 2550 50  0001 C CNN "Digi-Key Page"
+F 7 "RC0603FR-071KL" H 5200 2550 50  0001 C CNN "part_num"
 	1    5200 2550
 	0    -1   1    0   
 $EndComp
@@ -1202,6 +1228,7 @@ F 3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en590246" H 
 F 4 "ATMEGA32U4-AU uC" H 4000 2850 50  0001 C CNN "Description"
 F 5 "ATMEGA32U4-AURCT-ND" H 4000 2850 50  0001 C CNN "Digi-Key PN"
 F 6 "https://www.digikey.com/product-detail/en/microchip-technology/ATMEGA32U4-AUR/ATMEGA32U4-AURCT-ND/3440960" H 4000 2850 50  0001 C CNN "Digi-Key Page"
+F 7 "ATMEGA32U4-AUR" H 4000 2850 50  0001 C CNN "part_num"
 	1    4000 2850
 	1    0    0    -1  
 $EndComp
