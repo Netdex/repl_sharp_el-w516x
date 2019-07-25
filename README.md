@@ -61,5 +61,19 @@ Since the uC is powered by 3V3, an external 8 MHz oscillator provides the clock 
 [InteractiveHtmlBom](https://raw.githack.com/Netdex/repl_sharp_el-w516x/master/kicad/bom/ibom.html)
 
 ## Pictures
+3D Renders
+
 ![](https://i.imgur.com/iC0rI9Z.png)
 ![](https://i.imgur.com/7qBPTp5.png)
+
+Populated board (still covered in flux)
+
+![](https://i.imgur.com/cOvTa4C.png)
+
+Front, in enclosure
+
+![](https://i.imgur.com/b1UTS2w.png)
+
+Back, in enclosure (I need to file down the jagged edges)
+
+![](https://i.imgur.com/Ei2Z9bL.png)
